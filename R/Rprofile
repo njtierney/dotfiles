@@ -19,6 +19,7 @@ if (interactive()) {
   suppressMessages(require(fs))
   suppressMessages(require(pak))
   suppressMessages(require(clipr))
+  suppressMessages(require(gert))
   system("cal -A 2")
 }
 

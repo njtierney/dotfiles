@@ -72,3 +72,4 @@ export PATH="~/bin:$PATH"
 # The original version is saved in .bash_profile.pysave
 PATH="/Library/Frameworks/Python.framework/Versions/3.9/bin:${PATH}"
 export PATH
+alias R '/Library/Frameworks/R.framework/Versions/4.0/Resources/bin/R'
